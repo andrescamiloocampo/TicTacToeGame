@@ -430,6 +430,8 @@ public class gui extends javax.swing.JFrame {
 
     private void jButton10ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton10ActionPerformed
         limpiar();
+        p1.setText("");
+        p2.setText("");
     }//GEN-LAST:event_jButton10ActionPerformed
 
     private void validar(){
